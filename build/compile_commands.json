@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/len/buff_多线程_new（另一个复件）/build",
+  "command": "/usr/bin/c++ -DCERES_EXPORT_INTERNAL_SYMBOLS -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -D_FILE_OFFSET_BITS=64 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3   -Wall -Werror -Wno-error=deprecated-declarations -std=gnu++17 -o CMakeFiles/armor.dir/main.cpp.o -c /home/len/buff_多线程_new（另一个复件）/main.cpp",
+  "file": "/home/len/buff_多线程_new（另一个复件）/main.cpp"
+},
+{
+  "directory": "/home/len/buff_多线程_new（另一个复件）/build",
+  "command": "/usr/bin/c++ -DCERES_EXPORT_INTERNAL_SYMBOLS -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -D_FILE_OFFSET_BITS=64 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3   -Wall -Werror -Wno-error=deprecated-declarations -std=gnu++17 -o CMakeFiles/armor.dir/Buff/buff_detector/Buff_Detector.cpp.o -c /home/len/buff_多线程_new（另一个复件）/Buff/buff_detector/Buff_Detector.cpp",
+  "file": "/home/len/buff_多线程_new（另一个复件）/Buff/buff_detector/Buff_Detector.cpp"
+},
+{
+  "directory": "/home/len/buff_多线程_new（另一个复件）/build",
+  "command": "/usr/bin/c++ -DCERES_EXPORT_INTERNAL_SYMBOLS -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -D_FILE_OFFSET_BITS=64 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3   -Wall -Werror -Wno-error=deprecated-declarations -std=gnu++17 -o CMakeFiles/armor.dir/Buff/buff_detector/inference_api2.cpp.o -c /home/len/buff_多线程_new（另一个复件）/Buff/buff_detector/inference_api2.cpp",
+  "file": "/home/len/buff_多线程_new（另一个复件）/Buff/buff_detector/inference_api2.cpp"
+},
+{
+  "directory": "/home/len/buff_多线程_new（另一个复件）/build",
+  "command": "/usr/bin/c++ -DCERES_EXPORT_INTERNAL_SYMBOLS -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -D_FILE_OFFSET_BITS=64 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3   -Wall -Werror -Wno-error=deprecated-declarations -std=gnu++17 -o CMakeFiles/armor.dir/Buff/buff_processor/filter/buff_predictor.cpp.o -c /home/len/buff_多线程_new（另一个复件）/Buff/buff_processor/filter/buff_predictor.cpp",
+  "file": "/home/len/buff_多线程_new（另一个复件）/Buff/buff_processor/filter/buff_predictor.cpp"
+},
+{
+  "directory": "/home/len/buff_多线程_new（另一个复件）/build",
+  "command": "/usr/bin/c++ -DCERES_EXPORT_INTERNAL_SYMBOLS -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -D_FILE_OFFSET_BITS=64 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3   -Wall -Werror -Wno-error=deprecated-declarations -std=gnu++17 -o CMakeFiles/armor.dir/Buff/buff_processor/filter/linear_particle_filter.cpp.o -c /home/len/buff_多线程_new（另一个复件）/Buff/buff_processor/filter/linear_particle_filter.cpp",
+  "file": "/home/len/buff_多线程_new（另一个复件）/Buff/buff_processor/filter/linear_particle_filter.cpp"
+},
+{
+  "directory": "/home/len/buff_多线程_new（另一个复件）/build",
+  "command": "/usr/bin/c++ -DCERES_EXPORT_INTERNAL_SYMBOLS -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -D_FILE_OFFSET_BITS=64 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3   -Wall -Werror -Wno-error=deprecated-declarations -std=gnu++17 -o CMakeFiles/armor.dir/Buff/buff_processor/Buff_Coordsolver.cpp.o -c /home/len/buff_多线程_new（另一个复件）/Buff/buff_processor/Buff_Coordsolver.cpp",
+  "file": "/home/len/buff_多线程_new（另一个复件）/Buff/buff_processor/Buff_Coordsolver.cpp"
+},
+{
+  "directory": "/home/len/buff_多线程_new（另一个复件）/build",
+  "command": "/usr/bin/c++ -DCERES_EXPORT_INTERNAL_SYMBOLS -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -D_FILE_OFFSET_BITS=64 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3   -Wall -Werror -Wno-error=deprecated-declarations -std=gnu++17 -o CMakeFiles/armor.dir/serial/CRC_Check.cpp.o -c /home/len/buff_多线程_new（另一个复件）/serial/CRC_Check.cpp",
+  "file": "/home/len/buff_多线程_new（另一个复件）/serial/CRC_Check.cpp"
+},
+{
+  "directory": "/home/len/buff_多线程_new（另一个复件）/build",
+  "command": "/usr/bin/c++ -DCERES_EXPORT_INTERNAL_SYMBOLS -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -D_FILE_OFFSET_BITS=64 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3   -Wall -Werror -Wno-error=deprecated-declarations -std=gnu++17 -o CMakeFiles/armor.dir/serial/data_transform.cpp.o -c /home/len/buff_多线程_new（另一个复件）/serial/data_transform.cpp",
+  "file": "/home/len/buff_多线程_new（另一个复件）/serial/data_transform.cpp"
+},
+{
+  "directory": "/home/len/buff_多线程_new（另一个复件）/build",
+  "command": "/usr/bin/c++ -DCERES_EXPORT_INTERNAL_SYMBOLS -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -D_FILE_OFFSET_BITS=64 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3   -Wall -Werror -Wno-error=deprecated-declarations -std=gnu++17 -o CMakeFiles/armor.dir/serial/serialport.cpp.o -c /home/len/buff_多线程_new（另一个复件）/serial/serialport.cpp",
+  "file": "/home/len/buff_多线程_new（另一个复件）/serial/serialport.cpp"
+},
+{
+  "directory": "/home/len/buff_多线程_new（另一个复件）/build",
+  "command": "/usr/bin/c++ -DCERES_EXPORT_INTERNAL_SYMBOLS -DGFLAGS_IS_A_DLL=0 -DGOOGLE_GLOG_DLL_DECL=\"\" -DGOOGLE_GLOG_DLL_DECL_FOR_UNITTESTS=\"\" -DOV_THREAD=OV_THREAD_TBB -D_FILE_OFFSET_BITS=64 -D_GLIBCXX_USE_CXX11_ABI=1 -isystem /usr/local/include/opencv4 -isystem /usr/include/eigen3   -Wall -Werror -Wno-error=deprecated-declarations -std=gnu++17 -o CMakeFiles/armor.dir/Buff/buff_processor/Buff_Processor.cpp.o -c /home/len/buff_多线程_new（另一个复件）/Buff/buff_processor/Buff_Processor.cpp",
+  "file": "/home/len/buff_多线程_new（另一个复件）/Buff/buff_processor/Buff_Processor.cpp"
+}
+]
