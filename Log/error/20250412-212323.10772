@@ -1,0 +1,18 @@
+Log file created at: 2025/04/12 21:23:23
+Running on machine: sunflower-XiaoXinPro-16-ARP8
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20250412 21:23:23.841413 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:24.841674 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:25.841846 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:26.842108 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:27.842283 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:28.842551 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:29.842746 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:30.842998 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:31.843214 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:32.843401 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:33.843603 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:34.843830 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:35.844038 10772 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 21:23:36.844211 10772 serialport.cpp:23] [SERIAL]serial port not found

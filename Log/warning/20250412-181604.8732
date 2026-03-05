@@ -1,0 +1,11 @@
+Log file created at: 2025/04/12 18:16:04
+Running on machine: sunflower-XiaoXinPro-16-ARP8
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20250412 18:16:04.110481  8732 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 18:16:05.110728  8732 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 18:16:06.110878  8732 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 18:16:07.111049  8732 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 18:16:08.111919  8732 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 18:16:09.112155  8732 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 18:16:10.112411  8732 serialport.cpp:23] [SERIAL]serial port not found

@@ -1,0 +1,21 @@
+Log file created at: 2025/05/01 19:01:20
+Running on machine: partner
+Running duration (h:mm:ss): 0:00:17
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20250501 19:01:20.118892 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:21.119408 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:22.119679 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:23.119971 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:24.120167 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:25.120407 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:26.120700 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:27.120903 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:28.121220 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:29.121505 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:30.121790 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:31.121986 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:32.122253 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:33.122524 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:34.122831 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:35.122979 16659 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:01:36.123262 16659 serialport.cpp:23] [SERIAL]serial port not found

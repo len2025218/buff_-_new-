@@ -1,0 +1,5 @@
+Log file created at: 2025/04/12 21:07:47
+Running on machine: sunflower-XiaoXinPro-16-ARP8
+Running duration (h:mm:ss): 0:03:21
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20250412 21:07:47.068734  8442 serialport.cpp:23] [SERIAL]serial port not found

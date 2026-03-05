@@ -1,0 +1,9 @@
+Log file created at: 2025/05/05 21:18:08
+Running on machine: partner
+Running duration (h:mm:ss): 0:00:13
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20250505 21:18:08.570180 14497 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 21:18:10.578778 14497 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 21:18:12.586544 14497 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 21:18:13.594025 14497 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250505 21:18:14.594259 14497 serialport.cpp:23] [SERIAL]serial port not found

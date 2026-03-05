@@ -1,0 +1,7 @@
+Log file created at: 2025/05/03 22:53:05
+Running on machine: partner
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20250503 22:53:05.786656 18219 serialport.cpp:23] [SERIAL]serial port not found
+E20250503 22:53:06.787216 18219 serialport.cpp:23] [SERIAL]serial port not found
+E20250503 22:53:07.787439 18219 serialport.cpp:23] [SERIAL]serial port not found

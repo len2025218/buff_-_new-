@@ -1,0 +1,30 @@
+Log file created at: 2025/04/12 17:39:00
+Running on machine: sunflower-XiaoXinPro-16-ARP8
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20250412 17:39:00.363358 34506 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:01.363612 34506 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:02.363793 34506 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:03.363986 34506 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:04.364230 34506 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:05.364472 34506 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:06.364658 34506 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:07.364832 34506 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:08.365003 34506 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:20.918964 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:21.919147 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:22.919363 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:23.919543 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:24.919739 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:25.919975 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:26.920254 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:27.920485 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:28.920709 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:29.920938 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:30.921195 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:31.921422 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:32.921662 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:33.921888 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:34.922124 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:35.922407 34602 serialport.cpp:23] [SERIAL]serial port not found
+E20250412 17:39:36.922900 34602 serialport.cpp:23] [SERIAL]serial port not found

@@ -1,0 +1,13 @@
+Log file created at: 2025/04/13 21:56:20
+Running on machine: partner
+Running duration (h:mm:ss): 0:00:01
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20250413 21:56:20.571686 19521 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250413 21:56:23.649528 19521 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250413 21:56:26.139273 19521 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250413 21:56:29.706604 19521 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250413 21:56:32.352527 19521 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250413 21:56:35.410629 19521 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250413 21:56:37.884509 19521 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250413 21:56:40.630537 19521 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250413 21:56:44.454907 19521 serialport.cpp:30] [SERIAL] Failed to get permission!

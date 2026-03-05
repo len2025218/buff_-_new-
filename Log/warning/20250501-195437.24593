@@ -1,0 +1,48 @@
+Log file created at: 2025/05/01 19:54:37
+Running on machine: partner
+Running duration (h:mm:ss): 0:07:56
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20250501 19:54:37.498338 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:39.506847 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:40.513747 24603 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250501 19:54:41.514020 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:43.522300 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:44.529729 24603 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250501 19:54:45.529991 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:47.537782 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:49.545482 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:51.553478 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:53.561142 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:54.566895 24603 serialport.cpp:37] [SERIAL] open port defeat
+E20250501 19:54:55.567029 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:57.576136 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:54:59.584084 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:01.592059 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:03.600111 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:04.605372 24603 serialport.cpp:37] [SERIAL] open port defeat
+E20250501 19:55:05.605533 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:07.614825 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:09.623566 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:10.628887 24603 serialport.cpp:37] [SERIAL] open port defeat
+E20250501 19:55:11.629069 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:13.638226 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:15.646081 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:17.653927 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:18.660559 24603 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250501 19:55:19.661098 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:21.669478 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:23.677197 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:24.685001 24603 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250501 19:55:25.685148 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:26.693390 24603 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250501 19:55:27.693548 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:29.700928 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:30.708964 24603 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250501 19:55:31.709199 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:32.714830 24603 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250501 19:55:33.714936 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:35.723798 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:37.731483 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:39.739233 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:41.746843 24603 serialport.cpp:23] [SERIAL]serial port not found
+E20250501 19:55:43.754834 24603 serialport.cpp:23] [SERIAL]serial port not found

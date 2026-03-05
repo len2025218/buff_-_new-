@@ -1,0 +1,5 @@
+Log file created at: 2025/04/18 20:24:25
+Running on machine: partner
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F20250418 20:24:25.633592 11565 problem_impl.cc:552] Parameter block not found: 0x7f26308cbb60. You must add the parameter block to the problem before you can set a lower bound on one of its components.

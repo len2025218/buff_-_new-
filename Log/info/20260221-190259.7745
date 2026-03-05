@@ -1,0 +1,6 @@
+Log file created at: 2026/02/21 19:02:59
+Running on machine: len-ThinkPad-T14s-Gen-4
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0221 19:02:59.771550  7745 main.cpp:193] [MAIN] 生产者线程启动!
+I0221 19:02:59.772049  7745 main.cpp:195] [MAIN] 消费者线程启动!
+I0221 19:02:59.772116  7745 main.cpp:197] [MAIN] 处理器线程启动!

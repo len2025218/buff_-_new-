@@ -1,0 +1,26 @@
+Log file created at: 2025/05/05 19:34:03
+Running on machine: partner
+Running duration (h:mm:ss): 0:00:46
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20250505 19:34:03.240650  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:05.249038  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:07.256964  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:08.262068  5442 serialport.cpp:37] [SERIAL] open port defeat
+E20250505 19:34:09.262284  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:11.270758  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:13.278597  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:14.283691  5442 serialport.cpp:37] [SERIAL] open port defeat
+E20250505 19:34:15.283902  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:17.292728  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:18.297878  5442 serialport.cpp:37] [SERIAL] open port defeat
+E20250505 19:34:19.298705  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:21.307049  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:22.312484  5442 serialport.cpp:37] [SERIAL] open port defeat
+E20250505 19:34:23.312686  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:25.321755  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:26.327795  5442 serialport.cpp:30] [SERIAL] Failed to get permission!
+E20250505 19:34:27.328003  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:29.336266  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:30.341935  5442 serialport.cpp:37] [SERIAL] open port defeat
+E20250505 19:34:31.342204  5442 serialport.cpp:23] [SERIAL]serial port not found
+E20250505 19:34:33.350772  5442 serialport.cpp:23] [SERIAL]serial port not found
