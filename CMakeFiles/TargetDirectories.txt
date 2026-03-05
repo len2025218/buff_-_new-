@@ -1,0 +1,3 @@
+/home/echo/BBBBB/buff_多线程 new/buff_多线程 (1)/buff_多线程/CMakeFiles/rebuild_cache.dir
+/home/echo/BBBBB/buff_多线程 new/buff_多线程 (1)/buff_多线程/CMakeFiles/edit_cache.dir
+/home/echo/BBBBB/buff_多线程 new/buff_多线程 (1)/buff_多线程/CMakeFiles/armor.dir
